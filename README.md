@@ -27,6 +27,7 @@ https://play.google.com/store/apps/details?id=com.kalypsotech.sbhe&hl=en
 
 ### Notable Features
 * Chat
+* Sketch Canvas
 * Local storage
 * Network connectivity detection
 * Display charts
@@ -45,6 +46,7 @@ https://play.google.com/store/apps/details?id=com.kalypsotech.sbhe&hl=en
 * [react-native-pdf](https://github.com/wonday/react-native-pdf)
 * [react-native-restart](https://github.com/avishayil/react-native-restart)
 * [react-native-root-toast](https://github.com/magicismight/react-native-root-toast)
+* [react-native-sketch-canvas](https://github.com/terrylinla/react-native-sketch-canvas)
 * [react-native-splash-screen](https://github.com/crazycodeboy/react-native-splash-screen)
 * [react-native-storage](https://github.com/sunnylqm/react-native-storage)
 * [react-native-svg-charts](https://github.com/JesperLekland/react-native-svg-charts)

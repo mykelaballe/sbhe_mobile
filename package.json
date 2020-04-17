@@ -12,8 +12,7 @@
     "c": "cd android && gradlew clean",
     "ca": "cd android && gradlew clean && cd .. && react-native run-android",
     "e": "cd android/app/build/outputs/apk && explorer .",
-    "adb": "adb kill-server && adb start-server",
-    "adbdev": "adb -s 50a79b4a reverse tcp:8081 tcp:8081"
+    "adb": "adb kill-server && adb start-server"
   },
   "dependencies": {
     "@terrylinla/react-native-sketch-canvas": "^0.8.0",

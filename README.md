@@ -15,7 +15,7 @@ https://sbhe-ume.com.sg/
 Provides comprehensive range of services of any electrical contractor in Singapore. From construction, design, maintenance, diagnostics and repair our engineers, designers, and site staff.
 
 ### My Contribution
-Solely built the app from the ground-up for both Android
+Solely built the app from the ground-up for Android
 
 ### Store Listing
 Google Play Store  
